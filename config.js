@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "73 Quarry Park Way SE",
     "city": "Calgary",
@@ -114,6 +114,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-641",
     "tag": "Open House 73 Quarry Park Way SE",
     "netlifyUrl": null,
-    "siteId": "1082178107"
+    "siteId": "3cb30d1a-3272-431c-b4c1-c29988883480"
   }
 }
