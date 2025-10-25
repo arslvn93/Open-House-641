@@ -188,7 +188,7 @@ const config = {
     "repoName": "Open-House-641",
     "repoUrl": "https://github.com/arslvn93/Open-House-641",
     "tag": "Open House 73 Quarry Park Way SE",
-    "netlifyUrl": "",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/EWFVczQeMtLq5D4IVClg",
     "siteId": "3cb30d1a-3272-431c-b4c1-c29988883480"
   }
 };
