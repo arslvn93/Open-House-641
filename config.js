@@ -79,18 +79,6 @@ const config = {
       {
         "icon": "fas fa-key",
         "text": "Financing Resources"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Utility Cost Estimates"
-      },
-      {
-        "icon": "fas fa-map-location-dot",
-        "text": "Property Feature List"
-      },
-      {
-        "icon": "fas fa-image",
-        "text": "Home Inspection Tips"
       }
     ]
   },
