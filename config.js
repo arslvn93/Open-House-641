@@ -113,73 +113,67 @@ const config = {
   "modalQuestions": [
     {
       "id": "agent_status",
-      "questionText": "Are you currently exploring homes with a real estate agent?",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
           "value": "committed",
-          "text": "Yes, I'm committed to an agent."
+          "text": "The location"
         },
         {
           "value": "not_committed",
-          "text": "No, I'm not committed to an agent."
+          "text": "The layout"
         },
         {
           "value": "gathering_info",
-          "text": "Just gathering information at this stage."
+          "text": "The finishes (paint, lighting, etc.)"
+        },
+        {
+          "value": "new_option_0_3",
+          "text": "The outdoor space"
         }
       ]
     },
     {
       "id": "interest_level",
-      "questionText": "How interested are you in properties like this?",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
           "value": "very_interested",
-          "text": "Very interested, actively looking."
+          "text": "Yes, sometime in 2025"
         },
         {
           "value": "somewhat_interested",
-          "text": "Somewhat interested, keeping options open."
+          "text": "Yes, in the next 1–2 years"
         },
         {
           "value": "just_browsing",
-          "text": "Just browsing for now."
+          "text": "Not at the moment"
+        },
+        {
+          "value": "new_option_1_3",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
       "id": "neighborhood_engagement",
-      "questionText": "How do you usually enjoy the neighborhood?",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
           "value": "resident_explorer",
-          "text": "I live here and love exploring locally."
+          "text": "I rent and am interested in buying"
         },
         {
           "value": "considering_move",
-          "text": "I'm considering moving to this area."
+          "text": "I own and might sell within 2 years"
         },
         {
           "value": "just_visiting",
-          "text": "Just visiting for the open house."
-        }
-      ]
-    },
-    {
-      "id": "feature_attraction",
-      "questionText": "What feature attracted you to this home?",
-      "options": [
-        {
-          "value": "design_layout",
-          "text": "The design and layout."
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "location_neighborhood",
-          "text": "The location and neighborhood."
-        },
-        {
-          "value": "home_price",
-          "text": "The price of the home."
+          "value": "new_option_2_3",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
