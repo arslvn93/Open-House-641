@@ -49,7 +49,7 @@ const config = {
     "social": {
       "facebook": "https://www.facebook.com/caughlinrealestate/",
       "instagram": "https://www.instagram.com/caughlin.realestate/",
-      "website": ""
+      "website": "https://caughlinrealestate.ca/"
     }
   },
   "brokerage": {
