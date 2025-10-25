@@ -53,9 +53,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "Greater Property Group",
-    "logoUrl": "",
-    "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
+    "name": "Charles Real Estate Inc.",
+    "logoUrl": "https://charlesrealestate.ca/charles/wp-content/uploads/2016/12/Charles_LG-transparent.png",
+    "address": "4915 Elbow Dr SW #205, Calgary, AB T2S 2L4"
   },
   "openHouse": {
     "eventDate": "2025-10-25",
