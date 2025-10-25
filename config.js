@@ -73,19 +73,31 @@ const config = {
         "text": "Market Stats"
       },
       {
+        "icon": "fas fa-car",
+        "text": "School District Information"
+      },
+      {
         "icon": "fas fa-key",
         "text": "Financing Resources"
       },
       {
+        "icon": "fas fa-home",
+        "text": "Utility Cost Estimates"
+      },
+      {
         "icon": "fas fa-map-location-dot",
         "text": "Property Feature List"
+      },
+      {
+        "icon": "fas fa-image",
+        "text": "Home Inspection Tips"
       }
     ]
   },
   "meta": {
     "pageTitlePrefix": "🏡 Amy Caughlin Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://www.welpneedthis.com"
+    "privacyPolicyLink": "https://www.charlesrealestate.ca/property-search/privacy/"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
